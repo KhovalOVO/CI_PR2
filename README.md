@@ -1,0 +1,1 @@
+![Test Status](https://github.com/KhovalOVO/CI_PR2/actions/workflows/ci.yml/badge.svg)
